@@ -8,7 +8,7 @@ This project is done as part of the Future Ready Talent Virtual Internship Progr
  * **HEALTH**
 
 ### Problem Statement
-Most of injury/surgery cases become complicated if the wounds are not manage appropriately i.e improper maintainence which leading to worsen the condition. **Proper precoutions in treating patients** can improve wound recovery. In emergency cases the patient must get to the hospital as soon as possible. But in many conditions, it is common to see **First aid is able to manage/control the situation** and get to the hospital on time. The most of the non medical and not paraMedical person are not always aware about the **FirstAid** of the injury and the **minor treatment**
+Most of injury/surgery cases become complicated if the wounds are not manage appropriately i.e improper maintenance which leading to worsen the condition. **Proper precautions in treating patients** can improve wound recovery. In emergency cases the patient must get to the hospital as soon as possible. But in many conditions, it is common to see **First aid is able to manage/control the situation** and get to the hospital on time. The most of the non medical and not paraMedical person are not always aware about the **FirstAid** of the injury and the **minor treatment**
 
 - Skin cut/tears
 - Surgical wounds or stitches
